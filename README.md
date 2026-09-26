@@ -1,3 +1,6 @@
+2026年9月26日
+之前up一直不修复。只能自己修复。
+
 <p align="center">
     <img src="https://github.com/user-attachments/assets/0e266cd6-10db-4470-96ce-68d548363ae4" style="align-self: center"/>
 </p>
